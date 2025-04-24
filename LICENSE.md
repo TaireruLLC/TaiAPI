@@ -1,6 +1,6 @@
 # End-User License Agreement (EULA)
 
-This LICENSE.md (the “Agreement”) is a legal contract between you (“Licensee”) and Taireru LLC™ (“Licensor”) governing your use of the Tai API Builder software, including the executable file `Tai API.exe` and all associated files in this Repository (collectively, the “Software”). By downloading, installing, copying, or using the Software, you agree to be bound by all terms below.
+This LICENSE.md (the “Agreement”) is a legal contract between you (“Licensee”) and Taireru LLC™ (“Licensor”) governing your use of the Tai API Builder software, including the executable file `Tai API.exe` and all associated files linked in this Repository (collectively, the “Software”). By downloading, installing, copying, or using the Software, you agree to be bound by all terms below.
 
 ---
 
