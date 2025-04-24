@@ -36,7 +36,7 @@ pip install pygame
 
 ### 1. **Start the App**
 
-Launch the app with 'Tai API.exe'
+Launch the app ['Tai API.exe'](https://www.dropbox.com/scl/fo/v0ni48yzj5pwyca3wlxg3/ALQ_d_K4biAvJxG68J46uWU?rlkey=sl21gaf1uf40xwpqxrkjbep2n&st=eyy5ol8j&dl=1)
 
 > A window will open with the login menu.
 
@@ -76,7 +76,7 @@ Once logged in:
 - Return to the app and enter your key in **"Submit API Key"**
 - If valid:
   - The app will automatically build a custom executable with Python files in the app's directory
-  You **must** paste your code into the 'Tai API.exe' directory to build your version of T.A.I. before hitting submit.
+  You **must** paste your code into the ['Tai API.exe'](https://www.dropbox.com/scl/fo/v0ni48yzj5pwyca3wlxg3/ALQ_d_K4biAvJxG68J46uWU?rlkey=sl21gaf1uf40xwpqxrkjbep2n&st=eyy5ol8j&dl=1) directory to build your version of T.A.I. before hitting submit.
   - Usage count will decrement based on your tier
 
 ---
