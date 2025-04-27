@@ -1,4 +1,4 @@
-# <span style="color:red">Notice: T.A.I. API is currently down and undergoing changes. All sent requests will be reviewed upon relaunch. Please be patient, and thank you!</span>.
+# <span style="color:red">Notice: T.A.I. API is currently down and undergoing changes. All sent requests will be reviewed upon relaunch. Please be patient, and thank you!</span>
 ---
 
 # 🧠 Tai API Builder – Powered by T.A.I. (Total Autonomous Intelligence)
