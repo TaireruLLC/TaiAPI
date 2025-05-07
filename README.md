@@ -1,6 +1,3 @@
-# <span style="color:red">Notice: T.A.I. API is currently down and undergoing changes. All sent requests will be reviewed upon relaunch. Please be patient, and thank you!</span>
----
-
 # 🧠 Tai API Builder – Powered by T.A.I. (Total Autonomous Intelligence)
 
 Welcome to the official desktop app for requesting, managing, and redeeming **Tai API keys** – developed by **Taireru LLC™**. Tai, our next-gen self-evolving AI, brings his signature smarts (and dad jokes) to developers like you.
