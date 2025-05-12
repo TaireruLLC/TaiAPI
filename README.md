@@ -36,7 +36,7 @@ pip install pygame
 
 ### 1. **Start the App**
 
-Launch the app ['Tai API.exe'](https://www.dropbox.com/scl/fo/v0ni48yzj5pwyca3wlxg3/ALQ_d_K4biAvJxG68J46uWU?rlkey=sl21gaf1uf40xwpqxrkjbep2n&st=eyy5ol8j&dl=1)
+Launch the app ['Tai API.exe'](https://www.dropbox.com/scl/fo/v0ni48yzj5pwyca3wlxg3/ALQ_d_K4biAvJxG68J46uWU?rlkey=rp8p43jnkrcma9xwixns8k12m&st=izupud8m&dl=1) v.0.0.2+
 
 > A window will open with the login menu.
 
