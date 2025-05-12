@@ -17,7 +17,7 @@ This app allows you to:
 
 ## 🧑‍💻 How to Use
 
-### 1. **Start the App (Current Stable Size: 105 MB)**
+### 1. **Start the App (Current Stable Size: ~105 MB)**
 
 Use [Tai API](https://www.dropbox.com/scl/fo/v0ni48yzj5pwyca3wlxg3/ALQ_d_K4biAvJxG68J46uWU?rlkey=rp8p43jnkrcma9xwixns8k12m&st=izupud8m&dl=1) app version 0.0.2 or later to enable in-app updates (version 0.0.1 does not support this feature).
 
